@@ -1,0 +1,21 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set up patient position in scanning?", 
+        "text": [
+          "1.Connect the head holder or foot extension on the cradle facing the gantry.",  
+          "2.When preparing to move the patient onto the table, step on the 'home' pedal under the bed to adjustthe height of the table.",
+          "3.Transfer the patient to the table.",  
+          "4.Make the patient comfortable and immobilize as needed. Connect body straps to the cradle and wrap them around the patient.",
+          "5. From the gantry controls, press the following buttons as needed to refine the patient's position",
+          "6. On the gantry control panel, click the laser alignment light button to switch on the laser: align the laser with the center of the anatomic site.",
+          "7. On the gantry control panel, click the external icon or the internal icon. Confirm remains gray (unselectable) until the landmark button has been pressed.",
+          "8. From SCBSV, set patient-to-operator and operator-to-patient volume. Press Talk control and test the volume levels. AutoVoice communication control volume is adjusted on the software interface.",
+          "9. Proceed to Set up the patient's information."     
+        ]
+      }
+    ]
+  ]
+}

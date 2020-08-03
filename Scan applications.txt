@@ -1,0 +1,564 @@
+CONSTRAINS_IN_ACQUISITION_ASiR
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the constraints that apply to the acquisition of data where ASiR will be applied?", 
+        "text": [		  
+          "1. ANRT can only be used for digital tilted images, tilt angle cannot be 0 degree.",
+		  "2. When ANRT is being applied, 5 reconstruction calculation methods can be used, [STND], [STD+], [BONE], [EDGE] and [DETL].",
+		  "3. ANRT is not compatible with any real-time interactive image modes",
+		  "4. ANRT is not compatible with the AutomA mode",
+		  "5. ANRT cannot be used when the actual scanning current is less than 50mA."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+ENABLE_ANRT_SCANNING
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to enable ANRT Scanning?", 
+        "text": [
+          "1. Set up a scanning plan.",
+		  "2. In the ViewEdit area, press Recon.",
+		  "3. In the Recon Setting area, press Recon Option.",
+		  "4. In the XNR area, press On.",
+          "5. Continue to proceed with scanning according to the original plan. "XNR" will be displayed on the top left corner of an image"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+UTILISED_REDUCED_mA_GUIDANCE_TO_CONDUCT_SCANNING
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How we can conduct Utilize reduced mA value guidance to scanning", 
+        "text": [
+          "1.Set up a scanning plan.",
+		  "2.Press mA in the ViewEdit area.",
+		  "3.Press mA Reduction in the mA control area.",
+		  "4.Enter the desired mA value.",
+		  "5.Press OK in mA control.",
+          "6.Continue scanning according to the original plan"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+ASiR
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What is ASiR", 
+        "text": [
+          "Adaptive Statistical Iterative Reconstruction (ASiR) is a reconstruction technique designed to reduce noise in diagnostic images while preserving the structure details in the image",  
+          "ASiR noise reduction technique may allow for the reduction of the x-ray dose in some studies while maintaining image noise levels or be applied to improve images with an unacceptable level of noise."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+WHILE_USING_ASiR_RECON_MODE
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What should be keep in mind when selecting an ASiR recon mode", 
+        "text": [
+          "1. ASiR is not compatible with Neuro 3D Filters (N1, N2, N3).",  
+          "2. ASiR is not compatible with any of the real time interactive image modes such as Smart Prep or Biopsy mode."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+SCAN_WITH_ASiR
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to scan with ASiR?", 
+        "text": [
+          "1. Prescribe a scan.",
+		  "2. Click Recon Options and from the Recon Options screen, select an ASiR mode (Slice) and an ASiR % value. As the percentage value increases, the noise reduction increases.
+              * If you want to use ASiR to maintain image quality but reduce dose, from the mA Control screen, reduce mA or increase noise index value.",
+          "3. Proceed to scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+ASiR_PROSPECTIVE_RECONSTRUCTION
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "ASiR Prospective Reconstruction?", 
+        "text": [
+          "1. Prescribe a scan.",
+		  "2. From the ViewEdit screen, click Recon Tab.",
+		  "3. From the Recon tab, click any prescribed PMR R2 to R10.",
+		  "4. From the Recon Option screen, select an ASiR mode: Slice and an ASiR % value. Click OK.",
+          "5. Continue with your prescription and proceed to scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+ASiR_RETROSPECTIVE_RECONSTRUCTION
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "ASiR Retrospective Reconstruction", 
+        "text": [
+          "1. On the Exam Rx desktop, click Retro Recon.",
+		  "2. From the Retro Recon screen, select exam and series and click Select Series.",
+		  "3. From the Retro Recon Setup screen, click New Series Number.",
+		  "4. Click Recon Options.",
+		  "5. From the Recon Option screen, select an ASiR mode: Slice and an ASiR % value. Click OK.",
+          "6. Click Confirm."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+SCAN_WITH_DOSE_REDUCTION_GUIDANCE
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Scan with Dose Reduction Guidance?", 
+        "text": [
+          "1. Prescribe a scan.",
+		  "2. From the ViewEdit screen, click mA.",
+		  "3. From the mA, control screen click % Dose Reduction in either manual mA or Auto mA.",
+		  "4. Enter the desired dose reduction percentage.",
+		  "5. From the mA control screen in Manual mA click Reference mA.",
+		  "6. Enter the desired mA value.",
+		  "7. From the mA control screen, click OK.",
+          "8. Continue with your prescription and proceed to scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+BIOPSY_Rx_SCREEN
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to display the Biosy Rx screen.", 
+        "text": [
+          "From the ViewEdit screen or the Scan Progress screen, click Biopsy Rx to display the Biosy Rx screen."        
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+AQUIRE_A_SCAN
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure to improve setup and acquisition efficiency during a biopsy", 
+        "text": [
+          "1. From the ViewEdit screen or the Dynaplan screen, click Biopsy Rx.
+              * The images remain in the same series.",
+		  "2. From the Biopsy Rx screen, complete the following selections:
+              a. Select a Biopsy Reference.
+              * Click Superior to make the biopsy reference location the first scan, with subsequent images acquired superiorly from that location.
+              * Click Centered to make the biopsy reference location the center slice, with the other images acquired above and below that location. Typically, select an odd number for Centered to split the images evenly above and below the location.
+              * Click Inferior to make the biopsy reference location the first scan, with subsequent images acquired inferiorly from that location.
+              b. Select a biopsy location.
+              * Type a specific table location in the Biopsy Location field.
+              * In order to obtain positioning light position, the table must be moved to align the positioning lights, then click Internal or External.
+              c. Type the number of images for each pass in the Number of Images field.
+              d. Select a slice thickness. Axial mode only allows 2.5, 5.0, or 10.00 mm.",
+		  "3. Click Confirm Biopsy Rx to activate the biopsy scan.",
+		  "4. Optional: manually film the biopsy images.",
+		  "5. When the biopsy scan is finished and if additional groups are being scanned in the same series, re- activate AutomA. is turned off with Biopsy Mode."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+ACQUIRE_A_DMPR_SCAN_WITH_AUTO_BATCH
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Acquire a DMPR Scan with auto Batch?", 
+        "text": [
+          "1. Prescribe a scan.",
+		  "2. Click the Recon tab.",
+		  "3. From the Recon tab, click Off for group under the Auto Apps column.",
+		  "4. From the Session Setup screen, click Direct MPR and then click OK.",
+		  "5. From the Session Setup screen in Session Selection, click Start New to setup a DMPR session.
+             * You can combine groups or set each group as a new session. To combine groups the following parameters must be the same: slice thickness, interval, SFOV, DFOV, scan type, rotation speed, image center, and algorithm. The groups must be contiguous. If you want to change parameters between groups, click Start New instead of Combine Current.
+             * If you want to change parameters between groups, click Start New instead of Combine Current.",
+		  "6. To select reformat protocols to be used in the DMPR session, click Unused under Batch Protocol to open the list of available protocols.
+             * Reformat Protocols built in Reformat or the General category in Volume Viewer are displayed in the Batch Protocol List.
+             * Multi-step reformat protocols do not appear in the list.",
+          "7. Select up to five protocols from the Batch Protocol List, and click OK.
+             * Use the Next and Prior arrows to move through the list of GE reference reformat protocols and user define reformat protocols.
+             * The order you select the protocols is the order they are listed for Batch Protocol and the order Auto Batch applies them.",
+		  "8. Prescribe Filming, Auto Batch, Auto Store, and Auto Transfer as needed for each protocol.
+             a. Click Auto Batch Off to turn on Batch Reformats to be created automatically once all the images for the DMPR series have been reconstructed.
+             * If Auto Batch is enabled, an automatic edge detection algorithm detects the outer edges of the object and sets the range for Batch Reformats.
+             * Auto Batch is not available if the reformat protocol was created in the Oblique viewport.
+             b. Click Auto Store Off to automatically have Batch Reformats archived to designated archive device.
+             c. Click Auto Transfer Off to select up to 4 host to automatically transfer the DMPR Batch Reformats by series.",
+		  "9. Click OK to close DMPR Session Setup screen.",
+		  "10. Click Confirm.",
+		  "11. Press Move to Scan.",
+		  "12. Press Start Scan.",
+		  "13. Click Start Direct MPR Review to open the Direct MPR Interactive Review screen.
+             * This step is only necessary if you want to review the data.",
+		  "14. From the upper-left viewport, use the crosshair cursors, click and drag, or use the review controller to interact with the displayed images.",
+		  "15. Once all tasks are finished, including all Batch Reformats, click Quit and then, click Yes to end the DMPR session.",
+		  "16. For details on manipulating the DMPR image, see Manipulate DMPR images."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+AQUIRE_A_DMPR_SCAN_WITHOUT_AUTO_BATCH
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure to manually prescribe batch protocols if you have not selected auto batch when setting up a DMPR session.?", 
+        "text": [
+          "1. Prescribe a scan.",
+		  "2. Click the Recon tab.",
+		  "3. From the Recon tab, click Off for group under the Auto Apps column.",
+		  "4. From the Session Setup screen, click Direct MPR and then click OK.",
+		  "5. From the Session Setup screen, click Start New to setup a DMPR session",
+		  "6. To select reformat protocols to be used in the DMPR session, click Unused under Batch Protocol to open the list of available protocols.
+             * Reformat protocols built in Reformat or the General category in Volume Viewer are displayed in the Batch Protocol List.
+             * Multi-step reformat protocols do not appear in the list.",
+          "7. Select up to five protocols from the Batch Protocol List, and click OK.
+             * Use the Next and Prior arrows to move through the list of GE reference reformat protocols and user define reformat protocols.
+             * The order you select the protocols is the order they are listed for Batch Protocol.";
+		 "8. Prescribe Filming, Auto Store, and Auto Transfer as needed for each protocol.",
+		 "9. When generation of the DMPR session is complete, the Direct MPR BatchRx screen automatically displays",
+		 "10. From the Direct MPR BatchRx screen, select a protocol from the list of protocols.
+             * If you use a protocol, it propagates the batch prescription to the viewport with the Slice Thickness, Spacing Between Views, FOV, and Number of Slices programmed in the protocol.
+             * Confirm that the Mode is Oblique.",
+		 "11. Set the parameters for Thickness, Spacing Between Views, FOV, and Number of Views.",
+		 "12. Prescribe the Reformat range. For details on manipulating the DMPR image, see Manipulate DMPR images.",
+		 "13. Click Preview and then Apply to review the reformat prescription.
+             * Click Pause to pause the review.
+             * Click Resume to continue the review.
+             * Click Stop to end the review.",
+		 "14. Click Save and then Apply to save the prescribed DMPR reformat series.
+             * The following actions can be applied together with Save:
+             * Click Film to film the DMPR Reformat series based on camera selection and setup in Session Setup.
+             * Click Store to automatically archive the reformat series to designated archive device.
+             * Click Show to view the reformat images as they are being created in the review viewport in the lower-right corner of the viewport.
+             * Click Transfer to network reformat images to Host selected in Session Setup.",
+		 "15. Repeat steps 6 to 14 to create additional batch reformats.",
+		 "16. Click Back to exit Direct MPR BatchRx.",
+		 "17. Click Quit and then, click Yes to close the DMPR session or click Back to continue to Direct MPR Review at a later time."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+EXAM_SPLIT_WITH_CONNECTPRO
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to use Exam Split option to split images from a single acquisition", 
+        "text": [
+          "1.From the Browser, click the Exam Rx icon.",
+		  "2.Click the Patient Schedule icon.",
+		  "3.From the Patient Schedule screen, select the desired patient exams to which you want to apply ExamSplit once the images are reconstructed.
+             * A maximum of 15 procedures can be selected.",
+          "4.Click Select Patient."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+NEURO_3D_FILTER
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What is the use of Neuro 3D filter?", 
+        "text": [
+          "Neuro 3D Filter can be used to reduce pixel noise standard deviation or reduce dose while maintaining image quality. It may be possible to reduce dose depending on the level of filtering applied."      
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+APPLY_A_NEURO_3D_FILTER
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Apply a neuro 3D filter in scan?", 
+        "text": [
+          "1. Prescribe a scan for a neuro application.",
+          "2. Click the Recon icon , in the Auto Apps column for the group.",
+		  "3. Click off to display the Session Selection screen.",
+		  "4. From the Session Selection screen, under Filters, click Neuro 3D.",
+		  "5. Set the Filter Strength.
+             a. Click Low N1, Med N2, or High N3.
+             b. Click OK",
+		  "6. From the Filter Auto Transfer by Series screen, set Auto Transfer destination for up to four network hosts.
+             a. Click Host1.
+             b. Click the network host in the list of availale destinations.
+             c. Click OK.",
+		  "7. Click Confirm.",
+          "8. Press Move to Scan.",
+          "9. Press Start Scan."		  
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+AUTOVOICE_PRE-MESSAGE
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What about Autovoice pre-message?", 
+        "text": [
+          "If AutoVoice is enabled for the series, the pre-message will be played as part of the diagnostic delay. The diagnostic delay will be increased to accommodate the length of the AutoVoice message."        
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+SMART_PREP_SETUP_A_SCAN
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures to scan with SmartPrep™", 
+        "text": [
+          "1. From the ViewEdit screen, click SmartPrepRx",
+		  "2. Click On, if SmartPrep is Off.",
+		  "3. To automatic transition from Monitor Phase to Scan Phase when Transition RIOI reaches threshold, click Dynamic Transition.",
+		  "4. From the scout localizer on the display monitor, click and drag the red X on the slice line to define the Monitor location. Alternatively, type in the S/I location in the Monitor Location text field, for example, S110.",
+		  "5. From the SmartPrep screen, enter the following values:
+              * mA (range 10 to 100 in 10 mA increments), typically enter 40 mA for most studies.
+              * Monitoring Delay (0 to 60 seconds in 1 second increments) sets the time before monitoring scans begin.
+              * Monitoring ISD (1 to 60 seconds in 1 second increments) sets the time between monitoring scans.
+              * Enhancement Threshold (0 to 1,000 in steps of 1) sets the bar on the graph to monitor threshold enhancement. With Dynamic Transition is On, the Scan Phase starts automatically when the HU value of the Transition ROI reaches the Enhancement Threshold.
+              * Diagnostic Delay, (range 3 to 60 in 0.1 second increments) typically set to the minimum value (automatic) for arterial studies and 10 seconds or longer for venous studies.
+			  * Allow enough time to deliver breathing instructions if Auto Voice is not being used.
+              * The minimum time may vary when Auto Voice is turned on and depending on the monitor location relative to the start location.
+              * If Scan Location is changed after the SmartPrep screen is closed, to accommodate the new table location, the Diagnostic Delay time is automatically updated to the minimum time possible when Auto Minimum Delay is on. Respond to the confirmation prompts that indicate a Diagnostic Delay change.
+              * The Diagnostic Delay time is displayed in Prep Group for Group1 on the Timing Tab, for example SP11.2.
+              * Auto Voice Pre-message is available if Auto Voice is prescribed in the Voice Lights Timer in Timing parameters.
+              * Auto Minimum Delay sets the Diagnostic Delay to the most minimum value possible, taking into consideration location of the monitor phase, start phase location, and Auto Voice Pre-message length.",
+		  "6. From the SmartPrep screen, click Accept.",
+          "7. Proceed to Acquire a SmartPrep scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+SMART_PREP_ACQURIE_A_SCAN
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the steps to acquire contrast-enhanced images with a bolus tracking technique", 
+        "text": [
+          "1. From the ViewEdit screen click the Confirm icon to proceed to scan.",
+		  "2. Review and respond to the warning message.",
+		  "3. Review the values on the DynaPlan screen for all three phases: baseline, monitor, and phase.",
+		  "4. Press Move to Scan to advance the table to the monitoring location.",
+		  "5. Press Start Scan.",
+		  "6. From the reconstructed image on the display monitor, click Ellipse ROI and place a maximum of three ROIs over areas of interest. For example, if scanning a liver, place an ROI in liver parenchyma away from vessels, if evaluating a vessel place the ROI over the vessel."       
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+SMART_PREP_ACQURIE_A_SCAN_WITH_DYNAMIC_TRANSITION
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "Smart prep acqurie a scan with dynamic transition", 
+        "text": [
+          "1. From the ViewEdit screen click the confirm icon to proceed to scan.",  
+          "2. Review and respond to the warning message.",
+		  "3. Review the values on the Scan Progress screen for all three phases: baseline, monotor, and phase.",
+		  "4. Press Move to Scan to advance the table to the monitoring location.",
+		  "5. Press Start Scan.",
+		  "6. From the reconstructed image on the display monitor, click Ellipse ROI and place a maximum of three ROIs over areas if internet. For example, if scanning a liver, place an ROI in liver parenchyma away from vessels, if evaluating a vessel place the ROI over the vessel",
+		  "7. From SmartPrep Display control panel, select the ROI to be used for the Transition ROI. The last ROI placed on the image will be designated as the Transition ROI or set the desire ROI using Transition ROI selection in the SmartPrep Display control panel."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+

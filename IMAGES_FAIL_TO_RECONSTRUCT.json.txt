@@ -1,0 +1,16 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What will do if images fail to reconstruct", 
+        "text": [
+          "1.Click Recon Status to display Recon Management screen.",  
+          "2.From the Recon Management screen, click Unsuspend Entries.",
+          "3.If images still fails to recon click Restart Queue.",
+          "4.If images still fails to recon, shutdown and reboot the system."        
+        ]
+      }
+    ]
+  ]
+}

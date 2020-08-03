@@ -1,0 +1,14 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "If we encounter a message that we need to remove images to be able to scan the current series,what will do", 
+        "text": [
+          "First remove images to create space for scanning.",  
+          "If the failure continous restart the system."         
+        ]
+      }
+    ]
+  ]
+}

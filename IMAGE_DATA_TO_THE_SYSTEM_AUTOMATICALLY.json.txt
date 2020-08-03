@@ -1,0 +1,14 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to send the image data to the system storage device automatically?", 
+        "text": [
+          "click auto store",  
+          "Then Click Auto Transfer and a window displays where you can select the IP address to send the images."         
+        ]
+      }
+    ]
+  ]
+}

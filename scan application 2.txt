@@ -1,0 +1,21 @@
+
+SMARTPLAN_SETTING
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set Smartplan?", 
+        "text": [
+          "User need to preset SmartPlan in Protocol Management.",
+		  "SmartPlan can provide localizers on following anatomies.
+             * Single anatomy: Head, Chest, Abdomen, Pelvis
+             * Combination anatomies: Chest + Abdomen, Abdomen + Pelvis",
+		  "User is able to turn on/off SmartPlan when editing a protocol."         
+        ]
+      }
+    ]
+  ]
+}

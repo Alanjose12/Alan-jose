@@ -1,0 +1,13 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to display patient information screen", 
+        "text": [
+          "Click Exam RX to check patient information Screen"       
+        ]
+      }
+    ]
+  ]
+}

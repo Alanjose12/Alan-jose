@@ -1,0 +1,15 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are things to be followed in Auto Scan?", 
+        "text": [
+          "1. If Auto Scan is disabled, you must press Move to scan for every scan before Start Scan becomesavailable.",  
+          "If you select Auto Scan for a group prescription, it remains on for every group in that series.",
+          "Auto Scan is automatically enabled for a SmartPrep series."        
+        ]
+      }
+    ]
+  ]
+}

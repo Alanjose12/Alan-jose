@@ -1,0 +1,14 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to do the Patient Position/Series Level Functions area?", 
+        "text": [
+          "Do it on scan setup screen"  
+                
+        ]
+      }
+    ]
+  ]
+}

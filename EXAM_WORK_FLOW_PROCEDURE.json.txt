@@ -1,0 +1,21 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are procedure for an overview of scanning a patient, from patient setup to image management", 
+        "text": [
+          "1.Set up the patient's information",  
+          "2.Acquire a scout.",
+          "3.Define the Series setup parameters.",
+          "4.Acquire the scan data.",
+          "5.End the exam.",
+          "6.View the images.",
+          "7.Manually film the images.",
+          "8.Manually archive the images.",
+          "9.Manually network the images."       
+        ]
+      }
+    ]
+  ]
+}

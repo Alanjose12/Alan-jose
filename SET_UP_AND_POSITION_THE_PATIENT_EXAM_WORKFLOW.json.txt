@@ -1,0 +1,15 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Set up and position the patient in Exam workflow?", 
+        "text": [
+          "1.Set up the patient's information.",  
+          "2.Acquire a scout.",
+          "3.Define the Series setup parameters."         
+        ]
+      }
+    ]
+  ]
+}

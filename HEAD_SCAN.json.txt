@@ -1,0 +1,16 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What we should followed in Head Scan?", 
+        "text": [
+          "1. For head scans, confirm that the patient's head is completely in the head holder. If the patient hasnot entirely entered into the head holder, then light and dark images can be seen at both ends ofthe collimated rays during the two rotations.", 
+          "2.When the scanning is at the head of the bed surface, make sure that the head is not at theconnection of the cradle's extension. The head should be fully placed on the cradle.", 
+          "3.Always use the head holder straps to immobilize the patient's head during head scans.",
+          "4.Make sure items such as blankets and straps are not left hanging off the table or head holder,allowed to touch, or be dragged through the gantry while scanning otherwise artifacts may beseen in images."         
+        ]
+      }
+    ]
+  ]
+}

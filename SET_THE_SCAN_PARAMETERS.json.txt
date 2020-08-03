@@ -1,0 +1,20 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set the Scan parameters", 
+        "text": [
+          "a.Adjust the Graphic Rx.", 
+          "b.Set the timing parameters.",
+          "c.Set up Auto Voice.",
+          "d.Set the Recon parameters.", 
+          "e.Set the film parameters.",    
+          "f.Apply any additional scan features.", 
+          "g.Enter contrast descriptions.", 
+          "h.Start the scan."     
+        ]
+      }
+    ]
+  ]
+}

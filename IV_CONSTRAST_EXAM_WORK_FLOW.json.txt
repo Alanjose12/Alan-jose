@@ -1,0 +1,15 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to know the IV CONTRAST is used in exam?", 
+        "text": [
+          "Select contrast (syringe) icon on the lower-left corner of the ViewEdit screen",  
+          "We can "+C" annotation on the images next to the image number",
+          "It indicates that it is used in Exam"        
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "Before placing the patient in the system,what will do?", 
+        "text": [
+          "Asserories should be inspected such as",  
+          "head holder",
+          "table extension",
+          "patient positioning sponges",
+          "straps to make sure they are in good working condition"
+               ]
+      }
+    ]
+  ]
+}

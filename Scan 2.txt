@@ -1,0 +1,321 @@
+SET_UP_PATIENTS_INFORMATION
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures in each time we start a new patient exam by either sitting or standing in front of the CT operator console?", 
+        "text": [
+          "1.Click Exam Rx icon or Emergency Patient",  
+          "2.From the Patient Information area, type data into the appropriate fields.",
+		  "3.When all the desired patient information is entered, select a protocol from the Anatomical Selectorarea, using one of the following methods.
+             *Type a protocol number in the Protocol Number field.
+             *From the Protocol Selection screen, click an anatomical area. Click a protocol from the list todownload the scan parameter values or click a reference protocol",
+		  "4.Proceed to Acquire a Scout."
+        ]
+      }
+    ]
+  ]
+}
+
+
+CHANGE_AN_ITEAM_ON_THE_LIST_IN_PATIENT_INFORMATION_PRESET
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to change an iteam on the list in patient information preset?", 
+        "text": [
+          "1.From the Preset fields screen, select the item you want to change.", 
+  		  "2.Type the information in the text field.",
+          "3.Click Change."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+ADD_AN_ITEAM_TO_THE_LIST_IN_PATIENT_INFORMATION_PRESET
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Add an item to the list in patient information preset?", 
+        "text": [
+          "1.From the Preset fields screen, enter new information in the text field.",  
+          "2.Click Add."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+DELETE_AN_ITEAM_FROM_LIST_IN_PATIENT_INFORMATION_PRESET
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Delete an item from the list in patient information preset?", 
+        "text": [
+          "1.From the Preset fields screen, select the item you want to delete.
+            *The item is displayed in the text field.",  
+          "2.Click Delete"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+SORT_ITEAMS_IN_THE_LIST_FROM_PATIENT_INFORMATION_PRESET
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Sort items in the list from patient information preset?", 
+        "text": [
+          "1.From the Preset fields screen, click Sort."        
+        ]
+      }
+    ]
+  ]
+}
+
+
+ACQUIRE_A_SCOUT
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures to acquire a localizer from which you can prescribe the scan locations.?", 
+        "text": [
+          "1. Confirm that the orientation of the patient matches the orientation of the patient in the Patient Position and Series Level Functions area of the Scan desktop.
+             * Click the arrow direction on top of the patient's body to change the direction of the head/leg.
+             * Click the arrow direction on top of the patient's body to rotate the body in 90 degrees increments.",  
+          "2. From the ViewEdit screen, confirm the start/end locations, kV, mA, and Auto Voice (if applicable). To change a parameter value, click the box and type in the new value.
+             * Click an individual cell under a parameter column to adjust only the factor in that group.
+             * Click the parameter column from the top row to select all of the factors directly below the selected column and to adjust that factor in all of the images.
+             * Click +/- to increase or decrease the number of positioning images.
+             * Technique factors are set low (120 kV and a low mA are common), since these scans are normally only used for planning purposes.",
+		  "3. Set the Scout Plane to designate the type of scout to acquire",
+		  "4. Click Scout WW/WL and type desired values in the field and click OK.",
+		  "5. Clear the scan room of any unauthorized personnel.",
+		  "6. Click the Confirm icon.",
+		  "7. Press Move to Scan.",
+		  "8. Press Start Scan.",
+		  "9. Repeat steps 8 and 9 to acquire the second Scout scan.",
+		  "10. Proceed to Set the scan parameters procedure to acquire the scan data."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+ADJUST_THE_GRAPHIC_RX
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures to adjust the graphic prescription to set up a scan series?", 
+        "text": [
+          "1.Press Shift and simultaneously click and drag the center red X to position the graphic lines over theanatomy you want to cover.",
+          "2.Click and drag the solid box to the starting position.",
+		  "3.Click and drag the empty box to the ending position.",
+		  "4.Click and drag the diamond key to set the DFOV3 equally around the center of the DFOV.",
+		  "5.Click and drag the circle to adjust the tilt, if needed.",
+		  "6.From Localizer Tools of the Graphic Rx control panel, choose some options.",
+          "7.From the Graphic Rx control panel, review the irradiated area.",
+          "8. Review the Graphic Rx values on the ViewEdit screen to make sure they are correct.",
+          "9. Proceed to Set the Scan parameters."		  
+       		  
+        ]
+      }
+    ]
+  ]
+}
+
+
+ENTER_CONTRAST_DESCRIPTIONS
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures to be enter contrast descriptions for the scan if you are using IV1 or GI2 contrast?", 
+        "text": [
+          "1. From the ViewEdit screen, click the IV contrast or the GI contrast icon.",
+		  "2. In the IV or GI text fields, type a description of the contrast.",
+		  "3. Select a contrast option, if needed.
+              * Click Change to edit the currently selected description.
+              * Click Add to add new descriptions.
+              * Click Delete to remove a description.
+              * Click Sort to order the items on the list 1, 10, 100 to 9, 90, A to Z, or a to z",
+          "4. Click OK."			  
+        ]
+      }
+    ]
+  ]
+}
+
+
+START_THE_SCAN
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedures to start the scan?", 
+        "text": [
+          "1.Review the following items for every acquisition before confirming to scan:",
+    	  "2.To start a scan, click the Confirm icon",
+          "3.Press Move to scan.",
+          "4.Deliver breathing and table move instructions, as needed.",		  
+          "5.Press Start Scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+REPEAT_A_SERIES_THAT_HAS_ALREADY_SCANNED
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure to repeat a series that has already been scanned.?", 
+        "text": [
+          "1. On the Scan desktop, click Repeat Series.
+             * When more than one series has been scanned, a list of all scanned series displays.
+             * If only one series has been scanned, the series list does not display.",  
+          "2. On the Series List screen, select which series you want to repeat.",
+          "3. Click OK.
+             * SmartPrep is turned off.
+             * The Prep Delay for group 1 is set to zero."
+        ]
+      }
+    ]
+  ]
+}
+
+
+ABORT_A_SCAN_IN_PROGRESS
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure to abort the X-ray and stop the gantry and table movement.?", 
+        "text": [
+          "1.From the SCBSV, press Stop Scan",  
+          "2.Click Resume from the Scan Progress screen to resume the scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+PAUSE_A_SCAN_IN_PROGRESS
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure to pause the current scan.?", 
+        "text": [
+          "1.From the Scan Progress screen, click Pause scanning.",  
+          "2.Click Resume from the Scan Progress screen to resume the scan."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+EMERGENCY_STOP_SCAN_ELECTRONICS_AND_X-RAY_RADIATION
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are the procedure in the event of a patient related emergency or if the cradle, table, or gantry starts to move unexpectedly.?", 
+        "text": [
+          "1.From the SCIM or gantry, press Emergency stop.
+             * All table and gantry motions, and X-ray exposure are stopped.",  
+          "2.On the gantry, press E-Reset to clear the Emergency Stop."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+END_THE_EXAM
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to end the exam?", 
+        "text": [
+          "1. When an exam is completed, click End Exam.
+             * End Exam sends any prescribed R2 to R10 for the last series to be reconstructed.
+             * End Exam starts AutoStore for the exam.
+             * End Exam starts AutoTransfer by Exam.",  
+          "2. If you have the PPS1 ConnectPro option, click one of the following options.
+             * Click Complete if the exam is complete.
+             * Click Discontinue if the exam has been discontinued (the exam cannot use PPS again).
+             * Click Defer to complete the exam at a later date. To complete the exam, select the exam from the Image Works browser patient list, and select Tools > MPPS > Complete or Discontinue."         
+        ]
+      }
+    ]
+  ]
+}
+
+
+

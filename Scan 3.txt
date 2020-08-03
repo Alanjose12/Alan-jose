@@ -1,0 +1,102 @@
+mA_SELECTION
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "mA should be selected in the basics of what? ", 
+        "text": [
+          "using a qualitative estimate of the patient attenuation by using patients weight, diameter measurements, body mass index, or just as a qualitative visual classification"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+QUANTUM_NOISE_LEVEL
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to control Quantum level or reduce it?", 
+        "text": [
+          "By using AUTOmA"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+NOISE_IN_IMAGE
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to reduce noise in image or noise index?", 
+        "text": [
+          "By increasing the dose with increase in mA"       
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+THREE_DIFFERENT_NOISE_INDEX_VALUES
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "What are three different noise index values?", 
+        "text": [
+          "Reference index value Table 1,Table 2,Table 3"         
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+REFERENCE_NOISE_INDEX_CHANGE
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How we can change the Reference Noise Index?", 
+        "text": [
+          "Once the scanning started it is UNCHANGEABLE"          
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+

@@ -1,0 +1,14 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set the correct patient position?", 
+        "text": [
+          "click on the arrow direction on top of the patient's body to change the head forward / foot forward direction",  
+          "click on the arrow direction on top of the patient's body to rotate the model, for a rotation of 90°."         
+        ]
+      }
+    ]
+  ]
+}
